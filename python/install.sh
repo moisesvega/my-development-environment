@@ -26,7 +26,7 @@ pip install pythonbrew
 # Info : https://www.djangoproject.com/
 pip install Django
 
-# IPython
+# Install IPython
 # Info : http://ipython.org/
 pip install ipython
 
