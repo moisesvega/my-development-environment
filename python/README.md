@@ -3,15 +3,9 @@
 - Open terminal 
 - Navigate to this folder in your computer ( cd /path/to/this/folder )
 - Paste this script in your terminal and hit enter
+
+Code:
     sudo sh install.sh
-~~~
-
-And now some code:
-
-    // Code is just text indented a bit
-    which(is_easy) to_remember();
-
-~~~
 
 ## Modules ###
 - Python
