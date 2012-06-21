@@ -13,4 +13,4 @@ easy_install pip
 # Read modules files
 while read line; do
   pip install $line
-done < modules.txt
+done < "./"$1"modules.txt"
