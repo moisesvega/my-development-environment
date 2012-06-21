@@ -4,6 +4,7 @@
 - Navigate to this folder in your computer ( cd /path/to/this/folder )
 - Paste this script in your terminal and hit enter
     sudo sh install.sh
+~~~
 
 ## Modules ###
 - Python
