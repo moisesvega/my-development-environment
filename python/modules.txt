@@ -1,0 +1,6 @@
+virtualenv
+virtualenvwrapper
+pythonbrew
+ipython
+phabric
+Django
