@@ -5,6 +5,7 @@
 - Paste this script in your terminal and hit enter
 
 Code:
+
     sudo sh install.sh
 
 ## Modules ###
