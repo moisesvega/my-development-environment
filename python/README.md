@@ -6,6 +6,13 @@
     sudo sh install.sh
 ~~~
 
+And now some code:
+
+    // Code is just text indented a bit
+    which(is_easy) to_remember();
+
+~~~
+
 ## Modules ###
 - Python
 - easy install
