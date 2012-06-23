@@ -7,6 +7,7 @@ if [ "$1" != "" ]; then
   cd ..
 else
   #If not then install all of them
+  sh install.sh vimrc
   sh install.sh python
   sh install.sh ruby
 fi
