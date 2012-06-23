@@ -4,3 +4,4 @@ pythonbrew
 ipython
 phabric
 Django
+coverage
