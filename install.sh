@@ -1,8 +1,7 @@
 
 # If theres an argument just install that environment
-# Example: sh install.sh python (that will install just python env)i
+# Example: sh install.sh python (that will install just python env)
 if [ "$1" != "" ]; then
-  echo \$1 is set
   cd $1
   sh install.sh
   cd ..
